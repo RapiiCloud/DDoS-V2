@@ -1,2 +1,6 @@
 # DDoS-V2
-Use NodeJS
+
+#How To Use
+
+"npm Install"
+"node DDoS.js"
